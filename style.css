@@ -70,7 +70,18 @@ img {
     /* center align text */
     text-align: center;
 }
+.hero-text {
+    font-size: 4em;
+    font-weight: bold;
+}
 
+/* nice big font on a banner style background */
+.topic-title{
+    background-image:url('images/barca3-1.png')
+    font-size: 2em;
+    padding: 0.1em 3em;
+    background-color: rgb(210, 51, 51);
+}
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
