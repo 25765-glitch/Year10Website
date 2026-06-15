@@ -54,6 +54,16 @@ img {
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
+/*esto de abajo lo cambie yo */
+{
+   
+    background-color: rgb(34, 34, 204);
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 3em 3em;
+}
+/*esto de arriva lo cambie*/
+
 
 /* Styling for the topic card titles */
 .topic-card-text{
